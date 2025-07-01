@@ -1,2 +1,5 @@
 # MUTUAL-FUNDS-PORTFOLIO-AND-PERFORMANCE-ANALYSIS-USING-ML-ALGORITHM
-Built a system for investors to track mutual fund portfolios with transaction history, real-time NAV updates, and predictive analytics using ML models. Developed using Python, MySQL, HTML, CSS, and JavaScript to help users visualize trends, forecast future NAV, and make data-driven investment decisions confidently.  
+The proposed system is a web-based Mutual Fund Portfolio Management platform integrated with intelligent prediction capabilities. It is designed to assist investors in efficiently managing their mutual fund holdings while gaining actionable insights into future performance trends.
+This system enables users to perform key portfolio operations such as adding or removing funds, executing buy and sell transactions, and tracking real-time NAV updates. It maintains a comprehensive transaction history and dynamically calculates the total investment, units held, and current value of the portfolio.
+
+A major enhancement is the inclusion of a machine learning-based future NAV prediction module powered by the ARIMA model (AutoRegressive Moving Average Integrated with Ridge Regression). By analyzing historical NAV data, the system forecasts the potential future NAVs of mutual funds, allowing users to make informed and proactive investment decisions  
